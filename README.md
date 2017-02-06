@@ -1,4 +1,4 @@
-# nets4learning: Repositório Redes de computadores e a Internet
+# nets4learning: Redes de computadores
 
 Classe 2017/1
 
