@@ -1,2 +1,3 @@
 # nets4learning
-repo network class
+git for repository network class 2017/1
+
